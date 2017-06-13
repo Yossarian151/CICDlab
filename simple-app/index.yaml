@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  simple-app:
+  - apiVersion: v1
+    created: 2017-06-13T18:13:12.657929318-04:00
+    description: A Helm chart for Kubernetes
+    digest: 5aeb5a1fbd7ea1a0f40cd0cd7a31a8163c7f1e6b520ca1e1d0aef3c3dceff58d
+    name: simple-app
+    urls:
+    - simple-app-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-06-13T18:13:12.657604731-04:00
